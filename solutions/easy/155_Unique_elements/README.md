@@ -12,4 +12,4 @@
 
 В единственной строке выведите ответ на задачу.
 
-[Решение](solutions/easy/155_Unique_elements/solution.py)
+[Решение](solution.py)
